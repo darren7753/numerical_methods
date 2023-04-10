@@ -1,7 +1,7 @@
 <h1>Numerical Methods</h1>
 
 <p align="center">
-    <a href="" target="_blank">
+    <a href="https://darren7753-numerical-methods-app-0nzaef.streamlit.app/" target="_blank">
         <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit">
     </a>
 </p>
