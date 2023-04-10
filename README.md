@@ -6,7 +6,7 @@
     </a>
 </p>
 
-![Alt Text](./app_image.png)
+![A screenshot of the app](./app_image.png)
 
 This is a [Streamlit app](https://darren7753-numerical-methods-app-0nzaef.streamlit.app/) that enables users to calculate the roots of equations using numerical methods. For those who are not familiar with numerical methods, you can refer to the [PDF file](https://github.com/darren7753/numerical_methods/blob/main/Numerical%20Methods.pdf) provided. Currently, the app includes the following methods:
 
